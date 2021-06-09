@@ -9,5 +9,7 @@ Hi, my name is Marcos Rigel, I'm form Brasil and i am study Computer Science at 
 <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/) 
+
 [![Twitter Badge](https://img.shields.io/badge/-@marcossrigel-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/marcossrigel) 
+
 [![Gmail Badge](https://img.shields.io/badge/-marcos.2020109742@unicap.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcos.2020109742@unicap.br)
