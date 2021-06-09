@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**MarcosRigel/MarcosRigel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my github 👋🏽
 
-Here are some ideas to get you started:
+Hi, my name is Marcos Rigel, I'm form Brasil and i am study Computer Science at the Catholic University of Pernambuco. I am currently in the third period of the course and here I would like to show a little of my experience in my portfolio 🤓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 **"Se tornou aparentemente óbvio que nossa tecnologia excedeu nossa humanidade."** 🌍
+*Albert Einstein*  
+** **
+<img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/) 
+[![Twitter Badge](https://img.shields.io/badge/-@marcossrigel-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/marcossrigel) 
+[![Gmail Badge](https://img.shields.io/badge/-marcos.2020109742@unicap.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcos.2020109742@unicap.br)
