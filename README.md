@@ -5,6 +5,7 @@ Hi, my name is Marcos Rigel, I'm form Brasil and i am study Computer Science at 
 
 🌎 **"Se tornou aparentemente óbvio que nossa tecnologia excedeu nossa humanidade."** 🌍
 *Albert Einstein*  
+
 Tecnologies: 
 
 <a name="README"><img src="https://martinchavez.github.io/Assets/Logos/csharp.svg" width="60px" height="50px" /><img 
