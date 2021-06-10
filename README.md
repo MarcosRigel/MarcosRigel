@@ -12,7 +12,7 @@ Hi, my name is Marcos Rigel, I'm form Brasil and i am study Computer Science at 
  <img 
 src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="60px"><a name="README">
  
-**Tecnologies at progress:**
+**Tecnologies in progress:**
 
 <img alt="Python" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
