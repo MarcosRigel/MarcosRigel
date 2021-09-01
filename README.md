@@ -1,6 +1,6 @@
 # Welcome to my github 👋🏽
 
-Hi, my name is Marcos Rigel, I'm form Brasil and i am study Computer Science at the Catholic University of Pernambuco. I am currently in the fourth period of the course and here I would like to show a little of my experience in my portfolio 🤓.
+Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I am currently in the fourth period of the course and here I would like to show a little of my experience in my portfolio 🤓.
 
 🌎 **"It has become appallingly obvious that our technology has exceeded our humanity."                                                                                           
 by *Albert Einstein*** 🌍 
