@@ -2,8 +2,9 @@
 
 Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I am currently in the fourth period of the course and here I would like to show a little of my experience in my portfolio 🤓.
 
-🌎 **"It has become appallingly obvious that our technology has exceeded our humanity."                                                                                           
-by *Albert Einstein*** 🌍 
+🌎 **"Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso,
+ele está repleto de abstrações claras e lihas de controle objetivas."                                                                                           
+by *Grady Booch*** 🌍 
 
 **⚡ Technologies**
 
