@@ -10,9 +10,7 @@ by *Grady Booch*** 🌍
 ** **
 <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/) 
- 
-[![Twitter Badge](https://img.shields.io/badge/-@marcossrigel-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/marcossrigel) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/)  
 
 [
 ![Gmail Badge](https://img.shields.io/badge/-marcosrigel99@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcosrigel99@gmail.com)
