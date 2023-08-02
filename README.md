@@ -3,7 +3,7 @@
 
 ![dfredg5-0a60e875-646e-4d6c-bb91-73086f012808](https://github.com/MarcosRigel/MarcosRigel/assets/63622155/8645af8c-4fc1-4455-9e2d-f78ab5c363b2)
 
-Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I am currently in the fourth period of the course and here I would like to show a little of my experience in my portfolio 🤓.
+Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I'm currently in the seventh period of the course and here I'd like to show some of my experience in my portfolio 🤓.
 
 🌎 **"Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso,
 ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
