@@ -1,7 +1,7 @@
 
 # Welcome to my github 👋🏽
 
-![dfredg5-0a60e875-646e-4d6c-bb91-73086f012808](https://github.com/MarcosRigel/MarcosRigel/assets/63622155/8645af8c-4fc1-4455-9e2d-f78ab5c363b2)
+![pixel-jeff-clipc-s](https://github.com/MarcosRigel/MarcosRigel/assets/63622155/dee43fc6-8865-4f00-bddc-f78e945173a0)
 
 Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I'm currently in the seventh period of the course and here I'd like to show some of my experience in my portfolio 🤓.
 
