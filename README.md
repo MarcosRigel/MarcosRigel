@@ -1,7 +1,7 @@
 
 # Welcome to my github 👋🏽
 
-![pixel-jeff-clipc-s](https://cdn.tecmasters.com.br/wp-content/uploads/2021/08/retro4-1-scaled.jpg)
+![45bb3f4e2801e10a7388e74cbc0943f2](https://github.com/MarcosRigel/MarcosRigel/assets/63622155/b8b17b0d-f419-42cf-a31f-4c610aa47c75)
 
 Hi, my name is Marcos Rigel, I'm from Brasil and i am study Computer Science at the Universidade Católica de Pernambuco. I'm currently in the seventh period of the course and here I'd like to show some of my experience in my portfolio 🤓.
 
