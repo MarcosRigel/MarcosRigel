@@ -12,6 +12,6 @@ by *Grady Booch*** 🌍
 ** **
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/)
-[![Gmail Badge](https://img.shields.io/badge/-marcosrigel99@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcosrigel99@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-marcos.2020109742@unicap.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcos.2020109742@unicap.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Rigel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rigel-3515681a7/)](https://www.linkedin.com/in/marcos-rigel-3515681a7/) <br>
+[![Gmail Badge](https://img.shields.io/badge/-marcosrigel99@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcosrigel99@gmail.com) <br>
+[![Gmail Badge](https://img.shields.io/badge/-marcos.2020109742@unicap.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marcos.2020109742@unicap.br) 
